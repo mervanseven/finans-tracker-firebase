@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 #  Kişisel Finans Yönetim Platformu
-=======
-# Kişisel Finans Yönetim Platformu
->>>>>>> abae940 (env fix)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.x-blue?logo=react" />
@@ -78,12 +74,12 @@ Proje, kullanıcıyı yormayan ve veriye odaklanmayı sağlayan belirli tasarım
 ### 2. Adımlar
 ```bash
 # Projeyi klonlayın
-<<<<<<< HEAD
+
 git clone
 
 =======
 git clone 
->>>>>>> abae940 (env fix)
+
 # Klasöre girin
 cd finance-tracker
 
